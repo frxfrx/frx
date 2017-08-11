@@ -2,7 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import pymongo
 
-
+'''
+测试
+只是测试
+'''
 class Xs(object):
     def __init__(self, url):
         self.url = url
